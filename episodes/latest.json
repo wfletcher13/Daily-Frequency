@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-15",
+  "title": "The Price of Tomorrow, Liverpool's Press, and an Ancient Mystery",
+  "segments": [
+    {
+      "title": "Good morning, and what's worth our attention",
+      "voice": "host",
+      "paragraphs": [
+        "Good morning. It's Thursday, October fifteenth, and this is The Daily Frequency. A little market turbulence, a challenging weekend for Liverpool, an archaeological find that's equal parts fascinating and unsettling, and a chance to ask what makes a good investment different from a good story. Plus a quick Baltimore forecast. Coffee is optional; curiosity is strongly encouraged.",
+        "One ground rule before we begin. A headline may be important without demanding your entire day. The idea here is to know what's happening, understand the mechanisms behind it, and occasionally stumble into something that makes you say, well, I didn't know that. We're going to keep some room for uncertainty, which is especially useful when people on television insist everything is perfectly obvious."
+      ],
+      "sources": []
+    },
+    {
+      "title": "The market's uncomfortable question about artificial intelligence",
+      "voice": "host",
+      "paragraphs": [
+        "Markets first, because there's a useful investment lesson hiding inside this week's ugly trading. Wednesday brought a one point nine percent slide in the Nasdaq Composite and a one point one percent decline in the S and P five hundred, according to the Associated Press. Thursday morning, Reuters reported another drop in technology futures. The immediate catalyst is inflation: September consumer prices increased faster than investors expected, reviving speculation that interest rates could rise again.",
+        "But the deeper story is the relationship between money, expectations and time. Investors have spent years imagining what artificial intelligence might do for productivity, software, medicine and business. Some of that excitement is justified. Yet promising technology doesn't automatically justify any price for a company involved in it. Some AI infrastructure businesses need enormous amounts of capital today, borrowed or raised from investors, in the hope that future demand will provide attractive returns. If borrowing gets more expensive, those calculations change.",
+        "Here's a mental experiment. Imagine a business expects to earn a large sum ten years from now. If investors can earn almost nothing on safe bonds, that distant payoff might look appealing. If safer alternatives begin paying meaningfully more, a distant and uncertain payoff is worth less today, all else equal. Analysts call this discounting. It's not a statement about whether the technology works. It's a statement about what price you should pay for an uncertain future.",
+        "Now add another complication: expectations. A company could double sales and still disappoint shareholders if its market price had assumed sales would triple. Conversely, a boring company can provide a strong investment outcome when everyone else has underestimated it. So when you hear a headline like 'AI shares tumble,' don't stop at deciding whether you're optimistic about AI. Ask which assumptions got revised, how much debt is involved, how long it takes to generate cash, and what expectations were already priced in.",
+        "Reuters also reported that major Wall Street banks faced slower dealmaking in the third quarter after a stronger first half. That matters because it provides another angle on the cost of uncertainty. When executives and investors can't agree on valuations, acquisitions and public offerings often wait. The financial sector can still benefit from higher net interest income, so even a single big economic theme can create winners and losers within the same industry.",
+        "The useful takeaway isn't to rush out and buy the dip or sell everything. Broad diversification, your time horizon, the actual fundamentals and a willingness to admit uncertainty remain more reliable foundations than reacting to a dramatic day's price movement. And if your response to a red market screen is mostly curiosity about what changed, you're already building a better investing habit."
+      ],
+      "sources": [
+        {
+          "title": "AP: How major US indexes fared October 14",
+          "url": "https://apnews.com/article/224008b0bae0921d1e2867a4b1ecf511"
+        },
+        {
+          "title": "Reuters: Nasdaq futures fall as AI rout deepens",
+          "url": "https://www.reuters.com/business/nasdaq-futures-dive-1-ai-rout-deepens-debt-concerns-2026-10-15/"
+        },
+        {
+          "title": "Reuters: Wall Street banks face capital markets lull",
+          "url": "https://www.reuters.com/business/finance/wall-st-banks-caught-capital-markets-lull-after-strong-first-half-2026-2026-10-15/"
+        }
+      ]
+    },
+    {
+      "title": "Liverpool's Saturday morning examination",
+      "voice": "host",
+      "paragraphs": [
+        "Now for Liverpool. Saturday brings a ten A M Eastern kickoff away at Brentford, which is exactly the sort of fixture that can turn a perfectly calm morning into a rather animated conversation with your television. Brentford's official preview describes the home side as unbeaten in all competitions. Liverpool arrive after a three nil defeat to Manchester City in the league. A fixture that might have looked straightforward on the calendar suddenly has a few sharp edges.",
+        "The tactical question is particularly interesting under Liverpool's manager Andoni Iraola. His teams want to play vertically, recover the ball aggressively and move forward with intensity. That can make for thrilling football, but an aggressive press leaves decisions to be made behind the ball. If the opposition beats the initial pressure, where is the cover? How quickly can the midfield recover? And can Liverpool create genuine high quality chances instead of just collecting impressive possession statistics?",
+        "Brentford's preview highlights questions around Liverpool's attack and the fitness of Alexander Isak, while noting that Hugo Ekitike has been injured. Team news can change before the match, so we'll avoid presenting a predicted lineup as a fact. But the bigger question is stable: when a team presses high and wants to play quickly, its timing matters just as much as its effort.",
+        "Here's a way to watch without getting trapped by the scoreline. For five minutes, pay attention to the player furthest away from the ball who is nevertheless preventing a counterattack. That positioning doesn't usually make the highlights, but it often determines whether the next highlight belongs to Liverpool or its opponent. Consider it a tiny tactical field trip. You are not required to take notes, although I suspect somebody somewhere has created a spreadsheet for this."
+      ],
+      "sources": [
+        {
+          "title": "Brentford FC: Brentford v Liverpool match preview",
+          "url": "https://www.brentfordfc.com/en/news/match-previews-brentford-v-liverpool-premier-league-17-10-2026"
+        }
+      ]
+    },
+    {
+      "title": "The world in brief, without the shouting",
+      "voice": "guest",
+      "paragraphs": [
+        "A quick wider-world check. Global markets have been unsettled not just by inflation but by tensions affecting energy supplies and trade. Reuters describes continuing conflict in the Middle East and attacks involving energy infrastructure in the war in Ukraine as contributing to uncertainty around oil markets. Those are economic headlines, but they're first and foremost human stories. Energy disruptions affect heating, transport, hospitals and household budgets, often long before they appear as a neat line on a market chart.",
+        "There's a useful difference between being informed and following every political argument around an event. We want the verified development, the consequences for people, and the competing explanations where evidence genuinely supports them. We don't need twenty takes on the latest argument merely to prove we care. When consequences are serious, a little precision can be more respectful than a lot of volume.",
+        "And here's a short note from the business world: the current debate about how much infrastructure investment artificial intelligence can sustain is also a debate about the physical world. Data centers need electricity, cooling, equipment, transmission capacity and people who know how to build things safely. It's easy to discuss technology as though it floats in a cloud. The cloud, annoyingly for poets and conveniently for engineers, has quite a lot of concrete in it."
+      ],
+      "sources": [
+        {
+          "title": "Reuters Morning Bid: Tech stocks sink",
+          "url": "https://www.reuters.com/podcasts/reuters-morning-bid/tech-stocks-sink-2026-10-15/"
+        }
+      ]
+    },
+    {
+      "title": "Baltimore weather and a little breathing room",
+      "voice": "host",
+      "paragraphs": [
+        "Here's your Baltimore weather. The National Weather Service forecast issued early Thursday morning calls for a cooler and cloudier day after Wednesday's warmth. Other local forecasts put the high around the mid sixties with a meaningful chance of showers. The rain timing is less certain than a television weather icon makes it look, so check conditions before a long afternoon outing.",
+        "Morning may be the more appealing time for a walk, depending on how showers develop. And if Otto has strong views about the weather, which dogs often do, I assume those will be expressed quite clearly. The forecast we're using is dated October fifteenth; it isn't a magically updating number inside a static recording."
+      ],
+      "sources": [
+        {
+          "title": "National Weather Service Baltimore point forecast",
+          "url": "https://forecast.weather.gov/MapClick.php?lat=39.296399056772145&lon=-76.62436250082794"
+        }
+      ]
+    },
+    {
+      "title": "An ancient grave, and a very modern question",
+      "voice": "host",
+      "paragraphs": [
+        "For today's curiosity detour, archaeologists have reported a roughly two thousand year old elite burial in the Kuban region of southern Russia. It was associated with weapons, horses, luxury goods and evidence suggesting ritual sacrifice. Among the objects was a vessel engraved with a pentagram, interpreted as potentially protective against magical threats. Two gold coins featuring Alexander the Great helped archaeologists place the burial in its historical setting. As always with archaeology, some meanings are better supported than others.",
+        "What gets me is how immediately recognizable the human impulses are, even when the customs are deeply unfamiliar. Status, fear, protection, remembrance and the desire to make sense of death are all present in the evidence. We shouldn't romanticize a burial involving violence or pretend we know what the people involved felt. But we can notice how a society tries to make the incomprehensible manageable through objects and rituals.",
+        "There's also a lesson here about historical certainty. Archaeologists can examine the location of an object, the material it was made from, comparisons with other finds and the context of its burial. Those observations can be remarkably precise. Then come questions of intention: why was this here? What did this symbolize? Did the owner believe it was protective, or was it decorative, prestigious, inherited or something else entirely?",
+        "That second layer requires interpretation. A good archaeological account tells us where the physical evidence stops and the plausible stories begin. Which, come to think of it, is not a bad rule for news, investing or philosophical conversations either. Evidence first. Interpretation clearly labeled. Curiosity allowed to wander, but not to masquerade as certainty."
+      ],
+      "sources": [
+        {
+          "title": "Live Science: 2,000-year-old burial in Russia",
+          "url": "https://www.livescience.com/archaeology/2-000-year-old-burial-found-in-russia-near-a-human-sacrifice-and-a-cup-to-ward-off-magical-threats"
+        }
+      ]
+    },
+    {
+      "title": "A thought to take with you",
+      "voice": "host",
+      "paragraphs": [
+        "Let's finish somewhere slightly different. We spend enormous amounts of attention anticipating the future: market returns, next weekend's result, technological breakthroughs, what might happen years from now. Planning matters. But anticipation can also become a habit so powerful that we forget to notice the actual texture of the day we're in.",
+        "Art is one possible antidote. When you draw from observation, your brain has to stop substituting a familiar symbol for the thing in front of you. A tree is no longer just a green cloud on a brown stick. It becomes a collection of edges, light, irregular shapes, overlapping branches and spaces between leaves. You're not necessarily becoming a different person. You're seeing the same world with a little more resolution.",
+        "That doesn't mean you need to schedule a drawing session or turn creativity into a measurable goal. You might just catch an interesting shadow on a brick wall, or a particular expression on someone's face. Maybe the smallest forms of attention are part of how we feel connected to the world. Or maybe I'm getting carried away because this is, after all, a podcast with a weakness for good tangents.",
+        "Anyway, that's your Thursday edition. Stay reasonably informed, keep the investment decisions thoughtful, enjoy the football when it comes, and leave a little room for something you didn't expect to find interesting. Stay curious out there."
+      ],
+      "sources": []
+    }
+  ]
+}
