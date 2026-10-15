@@ -1,0 +1,38 @@
+name: Narrate editorial episode
+on:
+  push:
+    paths:
+      - 'episodes/latest.json'
+      - 'scripts/narrate.py'
+      - '.github/workflows/narrate.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  narrate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: python -m pip install piper-tts==1.4.1
+      - name: Build narrated episode (only when editorial script exists)
+        run: |
+          if [ ! -f episodes/latest.json ]; then
+            echo "No editorial script available: skip narration"
+            exit 0
+          fi
+          python scripts/narrate.py
+      - name: Commit completed episode
+        run: |
+          if [ ! -f daily/latest.mp3 ]; then exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily/latest.mp3 daily/latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish narrated Daily Frequency episode"
+            git push
+          fi
