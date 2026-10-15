@@ -1,0 +1,32 @@
+name: Free Daily Audio Digest
+on:
+  schedule:
+    - cron: '15 10 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: daily-frequency-digest
+  cancel-in-progress: false
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: sudo apt-get update && sudo apt-get install -y ffmpeg
+      - run: python -m pip install piper-tts==1.4.1
+      - name: Produce cited headlines and speech
+        run: python scripts/build_daily.py
+      - name: Commit new episode only in this repository
+        run: |
+          git config user.name "daily-frequency-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily/latest.json daily/latest.mp3 daily/script.txt
+          if ! git diff --cached --quiet; then
+            git commit -m "Publish free daily headline audio"
+            git push
+          fi
